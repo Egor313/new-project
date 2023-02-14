@@ -1,3 +1,5 @@
+@import url('recet.css');
+
 body {
     background: pink;
 }
@@ -7,4 +9,9 @@ body {
     margin: 0 auto;
     padding: 0 10px;
     color: blueviolet;
+}
+
+.test {
+    width: 70px;
+    height: 100px;
 }
